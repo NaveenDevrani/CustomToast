@@ -1,2 +1,2 @@
-include ':app', ':customtoasts'
+include ':app', ':customtoasts', ':cusomtoastlibrary'
 rootProject.name='CustomToast'
